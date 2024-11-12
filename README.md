@@ -1,5 +1,5 @@
 # Robust and Efficient Temporal Convolution network (RE-TCN)
-This is the official repository for **Action Recognition in Real-World Ambient Assisted Living Environment**, our paper submitted to the Big Data Mining and Analytics
+This is the official repository for **Action Recognition in Real-World Ambient Assisted Living Environment**, our paper submitted to the Journal of Big Data Mining and Analytics
 
 # Prerequisites
 
