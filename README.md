@@ -3,7 +3,7 @@ This is the official repository for **Action Recognition in Real-World Ambient A
 
 # Prerequisites
 
-Use the following guide to set up the training environment. 
+ Use the following guide to set up the training environment. 
 
 1. Create a conda environment
 2. Install pytorch
@@ -66,7 +66,7 @@ Put the downloaded data into the following directory structure.
 	      ...
 ```
 
-### Generating Data
+### Preparing Dataset
 
 **NW-UCLA dataset**
 
