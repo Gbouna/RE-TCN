@@ -80,6 +80,8 @@ Then, run `python gen_traindataset.py` and `python gen_testdataset.py` to prepar
 
 # Training
 
+Note: The `--device 0 1`  argument in the training and testing command specifies the GPU indices to be used. 
+
 ### NTU RGB+D 60 dataset:
 
 For cross-view, run `python main.py --device 0 1 --config ./config/nturgbd-cross-view/default.yaml`
