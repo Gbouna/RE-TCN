@@ -7,21 +7,9 @@ This is the official repository for **Action Recognition in Real-World Ambient A
 
 1. Create a conda environment
 2. Install pytorch
-3. Then install the following dependencies
+3. Then install the dependencies using this command `python3 -m pip install -r requirements.txt`
 
-**Dependencies**
-```
-python3 -m pip install scikit-learn
-python3 -m pip install matplotlib
-python3 -m pip install seaborn
-python3 -m pip install PyYAML
-python3 -m pip install tensorboardX
-python3 -m pip install tqdm
-python3 -m pip install h5py
-
-```
-
-Alternatively, you can use our environment.yml file to create an environment with all dependencies. Note that this environment was created on Ubuntu 22.04.4 LTS with cuda version 11.4.
+Alternatively, you can use our `environment.yml` file to create an environment with all dependencies. Note that this environment was created on Ubuntu 22.04.4 LTS with cuda version 11.4.
 
 ```
 Create the environment using the following command
